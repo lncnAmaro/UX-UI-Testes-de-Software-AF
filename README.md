@@ -1,1 +1,1 @@
-# UX-UI-Testes-de-Software-AF
+Repositório criado para postar a AF individual da disciplina de UX/UI - Testes de Software.
