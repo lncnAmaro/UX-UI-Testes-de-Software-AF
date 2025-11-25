@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"avaliacaoFinal_UXUI","l":"Calculadora"},{"p":"avaliacaoFinal_UXUI","l":"TesteCalculadora"}];updateSearchResults();
